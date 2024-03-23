@@ -7,10 +7,6 @@ img{
     width: 350px;
 }
 
-table{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #ffc107;
@@ -26,7 +22,7 @@ h1{
 }
 
 b{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #ffffff;
 }
 

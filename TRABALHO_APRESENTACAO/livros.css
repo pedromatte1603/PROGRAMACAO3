@@ -2,7 +2,7 @@ body {
     background-color: #212429;
 }
 
-img {
+img{
     height: 500px;
     width: 400px;
     border-radius: 10px;
@@ -17,13 +17,13 @@ img {
 }
 
 h1 {
-    font-family: "Days One", sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #ffc107;
     text-align: center;
     margin-top: 30px;
 }
 
 b {
-    font-family: "Days One", sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #ffffff;
 }
