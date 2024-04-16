@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+.perfilfoto {
+    height: 90px;
+    border-radius: 50%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verificado {
+    height: 20px;
+}
+
+.nomeperfil {
+    margin-left: 10px;
+}
+
+section {
+    width: 80vw;
+    border: 1px solid gray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+section>img {
+    width: auto;
+    max-width: 100%;
+}
+
+main {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: right;
+
+}
